@@ -29,14 +29,14 @@
 <!-- GitHub Stats and Profile Views Section -->
 <div align="center" style="margin-bottom: 20px;">
   <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=r&show_icons=true&locale=en&layout=compact" alt="Top Languages" />
-  <img src="https://github-readme-stats.vercel.app/api?username=r&show_icons=true&locale=en" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=ArupSankarRoy&show_icons=true&locale=en" alt="GitHub Stats" />
 </div>
 
 <!-- Connect with Me Section -->
 <h3 align="center">Connect with me:</h3>
 <p align="center">
   <a href="https://linkedin.com/in/a" target="_blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" />
+    <img align="center" src="https://raw.githubusercontent.com/ArupSankarRoy/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" />
   </a>
 </p>
 
