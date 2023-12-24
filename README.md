@@ -1,7 +1,4 @@
-<!-- Updated Header Image with Border and Shadow -->
-<div align="center" style="border: 2px solid #4CAF50; border-radius: 10px; overflow: hidden; box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1); margin-bottom: 20px;">
-  <img width="100%" src="https://github.com/ArupSankarRoy/ArupSankarRoy/blob/main/assets/115450599/9e3d1363-4ee1-44b2-b406-b77b35f31332.jpg">
-</div>
+![Header](https://github.com/ArupSankarRoy/ArupSankarRoy/assets/115450599/9e3d1363-4ee1-44b2-b406-b77b35f31332)
 
 <!-- Typing Animation -->
 <div align="center">
