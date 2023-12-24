@@ -5,7 +5,10 @@
 
 <h3 align="center">Coding enthusiast passionate about Computer Vision,Machine Learning,data analytics, and AI. Experienced in developing solutions that extract insights from data. Lifelong learner committed to staying at the forefront of technological advancements.te frontend developer from India</h3>
 
-<p align = "center" alt ="ai" , width = 400" , src="https://camo.githubusercontent.com/d4b9f1f03492d79ca1b50eedd76282be2bb592cdb5375ab1a23a334867834468/68747470733a2f2f63646e2e6472696262626c652e636f6d2f75736572732f34363132332f73637265656e73686f74732f363133353333352f61692d73756e2d747970652e676966">
+<p align="center">
+  <img alt="ai" width="400" src="https://camo.githubusercontent.com/d4b9f1f03492d79ca1b50eedd76282be2bb592cdb5375ab1a23a334867834468/68747470733a2f2f63646e2e6472696262626c652e636f6d2f75736572732f34363132332f73637265656e73686f74732f363133353333352f61692d73756e2d747970652e676966">
+</p>
+
 <img align="right" alt="Coding" width="400" src="https://i0.wp.com/www.sciencenews.org/wp-content/uploads/2023/04/040823_chatgpt_feat.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=r&label=Profile%20views&color=0e75b6&style=flat" alt="r" /> </p>
