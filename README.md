@@ -1,7 +1,7 @@
 ![Header](https://github.com/ArupSankarRoy/ArupSankarRoy/assets/115450599/9e3d1363-4ee1-44b2-b406-b77b35f31332)
 
 
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=19F70F&background=04FF3C00&random=false&width=435&lines=Hi%2C+I'm+Arup+Sankar+Roy;A+Machine+Learning+Enthusiast" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=50&pause=1000&color=19F70F&background=04FF3C00&random=false&width=435&lines=Hi%2C+I'm+Arup+Sankar+Roy;A+Machine+Learning+Enthusiast" alt="Typing SVG" /></a>
 
 <h3 align="center">Coding enthusiast passionate about Computer Vision,Machine Learning,data analytics, and AI. Experienced in developing solutions that extract insights from data. Lifelong learner committed to staying at the forefront of technological advancements.te frontend developer from India</h3>
 <img align="right" alt="Coding" width="400" src="https://i0.wp.com/www.sciencenews.org/wp-content/uploads/2023/04/040823_chatgpt_feat.gif">
