@@ -1,32 +1,56 @@
-![Header](https://github.com/ArupSankarRoy/ArupSankarRoy/assets/115450599/9e3d1363-4ee1-44b2-b406-b77b35f31332)
+<!-- Updated Header Image with Border and Shadow -->
+<div align="center" style="border: 2px solid #4CAF50; border-radius: 10px; overflow: hidden; box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1); margin-bottom: 20px;">
+  <img width="100%" src="https://github.com/ArupSankarRoy/ArupSankarRoy/blob/main/assets/115450599/9e3d1363-4ee1-44b2-b406-b77b35f31332.jpg">
+</div>
 
+<!-- Typing Animation -->
+<div align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&pause=1000&color=2EF703&center=true&vCenter=true&random=false&width=435&lines=Hi%2C+I'm+Arup+Sankar+Roy;A+Machine+Learning+Enthusiast" alt="Typing SVG" />
+  </a>
+</div>
 
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&pause=1000&color=2EF703&center=true&vCenter=true&random=false&width=435&lines=Hi%2C+I'm+Arup+Sankar+Roy;A+Machine+Learning+Enthusiast" alt="Typing SVG" /></a>
+<!-- Introduction Section -->
+<h3 align="center" style="color: #4CAF50;">Coding enthusiast passionate about Computer Vision, Machine Learning, data analytics, and AI. Experienced in developing solutions that extract insights from data. Lifelong learner committed to staying at the forefront of technological advancements. Frontend developer from India</h3>
 
-<h3 align="center">Coding enthusiast passionate about Computer Vision,Machine Learning,data analytics, and AI. Experienced in developing solutions that extract insights from data. Lifelong learner committed to staying at the forefront of technological advancements.te frontend developer from India</h3>
+<!-- AI Image with Rounded Corners -->
+<div align="center" style="border-radius: 50%; overflow: hidden; margin-bottom: 20px;">
+  <img alt="ai" width="400" src="https://camo.githubusercontent.com/d4b9f1f03492d79ca1b50eedd76282be2bb592cdb5375ab1a23a334867834468/68747470733a2f2f63646e2e6472696262626c652e636f6d2f75736572732f34363132332f73637265656e73686f74732f363133353333352f61692d73756e2d747970652e676966">
+</div>
 
+<!-- Additional Section: Contact Information and Learning -->
+<div align="center" style="margin-bottom: 20px;">
+  <p align="center">
+    <a href="https://arupsankarroy.github.io/my_resume_website/" style="padding: 10px 20px; background-color: #4CAF50; color: white; border-radius: 5px; text-decoration: none;">View My Portfolio</a>
+  </p>
+  
+  <p align="center">🌱 Currently learning <strong>Computer Vision</strong></p>
+  
+  <p align="center">📫 How to reach me: <a href="mailto:arupsankarroy11@gmail.com">arupsankarroy11@gmail.com</a></p>
+</div>
+
+<!-- GitHub Stats and Profile Views Section -->
+<div align="center" style="margin-bottom: 20px;">
+  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=r&show_icons=true&locale=en&layout=compact" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api?username=r&show_icons=true&locale=en" alt="GitHub Stats" />
+</div>
+
+<!-- Connect with Me Section -->
+<h3 align="center">Connect with me:</h3>
 <p align="center">
-  <img alt="ai" width="400" src="https://camo.githubusercontent.com/d4b9f1f03492d79ca1b50eedd76282be2bb592cdb5375ab1a23a334867834468/68747470733a2f2f63646e2e6472696262626c652e636f6d2f75736572732f34363132332f73637265656e73686f74732f363133353333352f61692d73756e2d747970652e676966" style="border-radius: 50%;">
+  <a href="https://linkedin.com/in/a" target="_blank">
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" />
+  </a>
 </p>
 
-<img align="right" alt="Coding" width="400" src="https://i0.wp.com/www.sciencenews.org/wp-content/uploads/2023/04/040823_chatgpt_feat.gif">
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=r&label=Profile%20views&color=0e75b6&style=flat" alt="r" /> </p>
-
-- 🌱 I’m currently learning **Computer Vision**
-
-- 👨‍💻 All of my projects are available at [https://arupsankarroy.github.io/my_resume_website/](https://arupsankarroy.github.io/my_resume_website/)
-
-- 📫 How to reach me **arupsankarroy11@gmail.com**
-
-- 📄 Know about my experiences [https://drive.google.com/file/d/1zwejP_Gs05MBglvwrtxa-puiWyeWrpGO/view](https://drive.google.com/file/d/1zwejP_Gs05MBglvwrtxa-puiWyeWrpGO/view)
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/a" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="a" height="30" width="40" /></a>
+<!-- Languages and Tools Section -->
+<h3 align="center">Languages and Tools:</h3>
+<p align="center">
+  <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="C" width="40" height="40"/>
+  </a>
+  <!-- Add other tools and languages as needed -->
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://flask.palletsprojects.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-icon.svg" alt="flask" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://www.mathworks.com/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" alt="matlab" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://opencv.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv" width="40" height="40"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://pytorch.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="40" height="40"/> </a> <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a> <a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="40" height="40"/> </a> <a href="https://www.selenium.dev" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/detain/svg-logos/780f25886640cef088af994181646db2f6b1a3f8/svg/selenium-logo.svg" alt="selenium" width="40" height="40"/> </a> </p>
 
 
