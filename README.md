@@ -35,8 +35,8 @@
 <!-- Connect with Me Section -->
 <h3 align="center">Connect with me:</h3>
 <p align="center">
-  <a href="https://linkedin.com/in/a" target="_blank">
-    <img align="center" src="https://raw.githubusercontent.com/ArupSankarRoy/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" />
+  <a href="https://www.linkedin.com/in/arup-sankar-roy-454232253/" target="_blank">
+    <img align="center" src="https://cliply.co/wp-content/uploads/2021/02/372102050_LINKEDIN_ICON_TRANSPARENT_1080.gif" alt="LinkedIn" height="30" width="40" />
   </a>
 </p>
 
