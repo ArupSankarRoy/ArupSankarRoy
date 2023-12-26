@@ -7,6 +7,10 @@
   </a>
 </div>
 
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=ArupSankarRoy&color=red" alt="Profile Views">
+</p>
+
 ![Alt Text](https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif)
 
 <!-- Introduction Section with Generic Font and Different Color -->
