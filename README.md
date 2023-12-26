@@ -7,6 +7,8 @@
   </a>
 </div>
 
+![Alt Text](https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif)
+
 <!-- Introduction Section with Generic Font and Different Color -->
 <h3 align="center" style="font-family: sans-serif; color: #0066cc;">Coding enthusiast passionate about Computer Vision, Machine Learning, data analytics, and AI. Experienced in developing solutions that extract insights from data. Lifelong learner committed to staying at the forefront of technological advancements. Frontend developer from India</h3>
 
