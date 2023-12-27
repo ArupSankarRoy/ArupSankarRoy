@@ -35,8 +35,8 @@
 <!-- GitHub Stats and Profile Views Section -->
 <div align="center" style="margin-bottom: 20px;">
   <img align="left" src="https://github-readme-stats.vercel.app/api?username=ArupSankarRoy&theme=monokai&show_icons=true&hide_border=false&count_private=false" alt="Top Languages" />
-  <img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=ArupSankarRoy&theme=monokai&hide_border=false" alt = "contribution" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ArupSankarRoy&theme=monokai&show_icons=true&hide_border=false&layout=compact" alt="GitHub Stats" />
+  <img align="right" src="https://github-readme-streak-stats.herokuapp.com/?user=ArupSankarRoy&theme=monokai&hide_border=false" alt = "contribution" />
+  <img align = "center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ArupSankarRoy&theme=monokai&show_icons=true&hide_border=false&layout=compact" alt="GitHub Stats" />
 </div>
 
 <!-- Connect with Me Section -->
