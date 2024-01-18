@@ -18,7 +18,7 @@
 
 <!-- AI Image with Rounded Corners -->
 <div align="center" style="border-radius: 50%; overflow: hidden; margin-bottom: 20px;">
-  <img alt="ai" width="400" src="https://camo.githubusercontent.com/d4b9f1f03492d79ca1b50eedd76282be2bb592cdb5375ab1a23a334867834468/68747470733a2f2f63646e2e6472696262626c652e636f6d2f75736572732f34363132332f73637265656e73686f74732f363133353333352f61692d73756e2d747970652e676966">
+  <img alt="ai" width="400" src="https://camo.githubusercontent.com/f4a1a6f89b3464336aec0babaf60a03fceae4c376096e3b8bde5e0edfbddb5a8/68747470733a2f2f63646e2e6472696262626c652e636f6d2f75736572732f34363132332f73637265656e73686f74732f363133353333352f61692d73756e2d747970652e676966">
 </div>
 
 <!-- Additional Section: Contact Information and Learning -->
