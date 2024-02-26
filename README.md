@@ -24,7 +24,7 @@
 <!-- Additional Section: Contact Information and Learning -->
 <div align="center" style="margin-bottom: 20px;">
   <p align="center">
-    <a href="https://arupsankarroy.github.io/my_resume_website/" style="padding: 10px 20px; background-color: #4CAF50; color: white; border-radius: 5px; text-decoration: none;">View My Portfolio</a>
+    <a href="https://arupsankarroy.github.io/Resume/" style="padding: 10px 20px; background-color: #4CAF50; color: white; border-radius: 5px; text-decoration: none;">View My Portfolio</a>
   </p>
   
   <p align="center">🌱 Currently learning <strong>Computer Vision</strong></p>
