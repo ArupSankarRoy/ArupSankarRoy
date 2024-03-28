@@ -29,7 +29,7 @@
   
   <p align="center">🌱 Currently learning <strong>Computer Vision</strong></p>
   
-  <p align="center">📫 How to reach me: <a href="mailto:arupsankarroy11@gmail.com">arupsankarroy11@gmail.com</a></p>
+  <p align="center">📫 How to reach me: <a href="mailto:asrl20221078.cse.uit@gmail.com">asrl20221078.cse.uit@gmail.com</a></p>
 </div>
 
 <!-- GitHub Stats Section -->
