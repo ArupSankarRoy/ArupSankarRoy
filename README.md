@@ -10,8 +10,9 @@
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=ArupSankarRoy&color=red" alt="Profile Views">
 </p>
+
 <!-- Line Drawing -->
-![Line](assets/image_line.gif)
+<img src="assets/image_line.gif" alt="Line">
 
 <!-- Introduction Section with Generic Font and Different Color -->
 <h3 align="center" style="font-family: sans-serif; color: #0066cc;">Coding enthusiast passionate about Computer Vision, Machine Learning, data analytics, and AI. Experienced in developing solutions that extract insights from data. Lifelong learner committed to staying at the forefront of technological advancements. Frontend developer from India</h3>
