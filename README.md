@@ -18,7 +18,7 @@
 
 <!-- AI Image with Rounded Corners -->
 <div align="center" style="border-radius: 50%; overflow: hidden; margin-bottom: 20px;">
-  <img alt="ai" width="400" src="ArupSankarRoy\assets\IMAGE_GIF.gif">
+  <img alt="ai" width="400" src="assets\IMAGE_GIF.gif">
 </div>
 
 <!-- Additional Section: Contact Information and Learning -->
