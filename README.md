@@ -64,7 +64,7 @@
   </p>
 </div>
 
-[![Arup's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=ArupSankarRoy&bg_color=fffbd1&color=9e4c98&line=9e4c98&point=403d3d&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![Arup's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=ArupSankarRoy&&theme=github-compact)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 ![Bottom SVG](assets/image_footer.svg)
 
